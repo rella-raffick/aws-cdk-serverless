@@ -1,0 +1,6 @@
+{
+    "app": "npx ts-node src/infra/Launcher.ts",
+     "context": {
+    "@aws-cdk/core:bootstrapQualifier": "nomadtest14"
+  }
+}
